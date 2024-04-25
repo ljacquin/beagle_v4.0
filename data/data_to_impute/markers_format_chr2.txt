@@ -1,0 +1,4 @@
+mk pos ref alt
+mk1 7556 A C
+mk2 8635 T G
+
